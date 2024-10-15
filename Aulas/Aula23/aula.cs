@@ -14,6 +14,8 @@ class Aula23{
         }
 
         //Método BinarySeach(array,valor) vai retornar um int
-        int procurado;
+        int procurado = 14;
+        int posicao = Array.BinarySearch(vetor2, procurado);
+        Console.WriteLine("\n\nA posição do elemento {0}, no array: vetor2 é {1}", procurado, posicao);
     }
 }
