@@ -13,6 +13,7 @@ class Aual26 {
         Console.WriteLine("a divisão de {0} e {1} é {2} e o resto {3}", n1, n2, div, res);
     }
 
+    //Argumento out
     static int divide (int dividendo, int divisor, out int resto)
     {
         int quociente;
