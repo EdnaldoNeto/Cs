@@ -10,16 +10,13 @@ class Estoque{
 
         int[] codigo = new int[100];
         int[] quantidade = new int[100];
-        float[] preço = new float[100];
-
-        Console.WriteLine(produto.Length);
-        
+        double[] preço = new double[100];        
 
         Console.WriteLine("_______________Software de controle de estoque_______________");
 
         inicio:
 
-        Console.WriteLine("\n\nOque você deseja:\n\n__________[add] - para adicionar produto:\n\n__________[rm] - para remover produto:\n\n__________[list] - para listar os preços, quantidade de estoque e preço:\n\n__________[quit] - para fechar o Software");
+        Console.WriteLine("\n\nOque você deseja:\n\n__________[add] - para adicionar produto:\n\n__________[rm] - para remover produto:\n\n__________[list] - para listar os preços, quantidade de estoque e preço:\n\n__________[quit] - para fechar o Software\n");
 
         Console.Write("Opção: ");
         respostaUser = Console.ReadLine();
@@ -30,20 +27,18 @@ class Estoque{
 
             case "add":
                 add:
-                Console.Write("Nome do produto: ");
+                Console.Write("\nNome do produto: ");
                 
                 int N = 0;
                 if (produto[N] == null)
                 {
                     produto[N] = Console.ReadLine();
-                    codigo[N] = N;
                 } else {
                     while (!(produto[N] == null)) 
                     {
                         N++;
                     }
                     produto[N] = Console.ReadLine();
-                    codigo[N] = N;
                 }
 
                 Console.Write("Quantidade de produto: ");
@@ -52,14 +47,12 @@ class Estoque{
                 if (quantidade[Q] == 0)
                 {
                     quantidade[Q] = int.Parse(Console.ReadLine());
-                    codigo[Q] = Q;
                 } else {
                     while (!(quantidade[Q] == 0))
                     {
                         Q++;
                     }
                     quantidade[Q] = int.Parse(Console.ReadLine());
-                    codigo[Q] = Q;
                 }
 
                 Console.Write("Preço do produto: ");
@@ -67,18 +60,16 @@ class Estoque{
                 int P = 0;
                 if (preço[P] == 0)
                 {
-                    preço[P] = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture.NumberFormat);
-                    codigo[P] = P;
+                    preço[P] = double.Parse(Console.ReadLine());
                 } else {
                     while(!(preço[P] == 0))
                     {
                         P++;
                     }
-                    preço[P] = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture.NumberFormat);
-                    codigo[P] = P;
+                    preço[P] = double.Parse(Console.ReadLine());
                 }
-
-                Console.WriteLine("Quer adicionar mais algum produto: [S/N]");
+                
+                Console.WriteLine("\bQuer adicionar mais algum produto: [S/N]");
                 respostaUser = Console.ReadLine();
 
                 if (respostaUser == "S" || respostaUser == "s")
@@ -89,21 +80,31 @@ class Estoque{
                     Console.Clear();
                     goto inicio;
                 }
-                    
-                
+
             case "rm":
                 rm:
-                Console.Write("Qual o código do Produto que você deseja remover: ");
+                Console.Write("\nQual o código do Produto que você deseja remover: ");
 
-                int rm = int.Parse(Console.ReadLine());
+                int r = int.Parse(Console.ReadLine());
                 
-                if (codigo[rm] != 0)
+                if (produto[r] != null)
                 {
-                    produto[rm] = null;
-                    quantidade[rm] = 0;
-                    preço[rm] = 0;
+                    produto[r] = null;
+                    quantidade[r] = 0;
+                    preço[r] = 0;
+
+                    Console.WriteLine("\nDeseja remover outro produto: [S/N]");
+
+                    if (respostaUser == "S" || respostaUser == "s")
+                    {
+                        Console.Clear();
+                        goto rm;
+                    } else {
+                        Console.Clear();
+                        goto inicio;
+                    }
                 } else {
-                    Console.WriteLine("Código inexistente. Quer tentar novamente: [S/N]");
+                    Console.WriteLine("\nCódigo inexistente. Quer tentar novamente: [S/N]");
                     respostaUser = Console.ReadLine();
 
                     if (respostaUser == "S" || respostaUser == "s")
@@ -115,27 +116,35 @@ class Estoque{
                         goto inicio;
                     }
                 }
-                break;
 
             case "list":
-                Console.WriteLine("Todos os produtos, preços e estoque:");
+                Console.WriteLine("\n_______________Todos os produtos, preços e estoque_______________\n");
                 if (produto[0] == null) 
                 {
                     Console.WriteLine("Sua lista de produtos está vazia");
 
                 } else {
+                    int i = 0;
                     for (int n = 0; produto[n] != null; n++)
                     {
                         Console.WriteLine("Produto: {0}", produto[n]);
-                        Console.WriteLine("Preço: {0}", preço[n]);
                         Console.WriteLine("estoque: {0}", quantidade[n]);
+                        Console.WriteLine("Preço: {0:c}", preço[n]);
+                        Console.WriteLine("código de remoção: {0}\n\n", i);
+                        i++;
                     }
                 }
-                break;
+                goto inicio;
 
 
             case "quit":
+                Console.WriteLine("\n_______________Obrigado por testar nosso Software_______________");
                 break;
+
+            default:
+                Console.Clear();
+                Console.WriteLine("Essa Opção é inválida.");
+                goto inicio;
 
         }
     }
