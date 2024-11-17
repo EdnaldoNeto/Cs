@@ -14,10 +14,11 @@ struct Carro{
 class Aula44{
     static void Main() {
 
-        Carro c1;
+        Carro c1 = new Carro("Mustang", "Carro");
+        //c1.nome = "Mustang";
+        //c1.cor = "Preto";
 
-        c1.nome = "Mustang";
-        c1.cor = "Preto";
+
 
         Console.WriteLine("Nome do carro: {0}", c1.nome);
         Console.WriteLine("Cor do carro: {0}", c1.cor);
