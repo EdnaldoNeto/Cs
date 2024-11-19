@@ -5,22 +5,31 @@ struct Carro{
     public string nome;
     public string cor;
 
-    public Carro(string nome, string cor) {
-        this.nome = nome;
-        this.cor = cor;
-    }
-
     public void Info() {
         Console.WriteLine("Nome do carro: {0}", this.nome);
         Console.WriteLine("Cor do carro: {0}", this.cor);
+        Console.WriteLine("------------------");
+
     }
 }
 
 class Aula45{
     static void Main() {
 
-        Carro c1 = new Carro("Mustang", "Preto");
+        Carro[] carros = new Carro[3];
 
-        c1.Info();
+        carros[0].nome = "Mustag";
+        carros[0].cor = "Preto";
+
+        carros[1].nome = "BMW";
+        carros[1].cor = "Prata";
+
+        carros[2].nome = "Camaro";
+        carros[2].cor = "Branco";
+
+
+        for (int i = 0; i < carros.Length; i++) {
+            carros[i].Info();
+        }
     }
 }
