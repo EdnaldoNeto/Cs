@@ -1,0 +1,16 @@
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\Exibindo video YT\bin\Debug\Exibindo video YT.exe.config
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\Exibindo video YT\bin\Debug\Exibindo video YT.exe
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\Exibindo video YT\bin\Debug\Exibindo video YT.pdb
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\Exibindo video YT\obj\Debug\Exibindo video YT.csproj.AssemblyReference.cache
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\Exibindo video YT\obj\Debug\Exibindo_video_YT.F_Principal.resources
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\Exibindo video YT\obj\Debug\Exibindo_video_YT.Properties.Resources.resources
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\Exibindo video YT\obj\Debug\Exibindo video YT.csproj.GenerateResource.cache
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\Exibindo video YT\obj\Debug\Exibindo video YT.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\Exibindo video YT\obj\Debug\Exibindo video YT.exe
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\Exibindo video YT\obj\Debug\Exibindo video YT.pdb
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\Exibindo video YT\obj\Debug\Exibindo_video_YT.F_VideoPlayer.resources
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\Exibindo video YT\bin\Debug\Interop.WMPLib.dll
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\Exibindo video YT\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\Exibindo video YT\obj\Debug\Interop.WMPLib.dll
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\Exibindo video YT\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\Exibindo video YT\obj\Debug\Exibindo video YT.csproj.ResolveComReference.cache

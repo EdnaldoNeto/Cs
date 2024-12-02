@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Notebook\\OneDrive\\Documentos\\Estudos\\C#\\Cs\\Aulas\\Aula62 - Componentes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2BDFBB-9638-41EE-ABB7-106496C19DEE}|Aula62 - Componentes.csproj|c:\\users\\notebook\\onedrive\\documentos\\estudos\\c#\\cs\\aulas\\aula62 - componentes\\f_combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2BDFBB-9638-41EE-ABB7-106496C19DEE}|Aula62 - Componentes.csproj|solutionrelative:f_combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2BDFBB-9638-41EE-ABB7-106496C19DEE}|Aula62 - Componentes.csproj|c:\\users\\notebook\\onedrive\\documentos\\estudos\\c#\\cs\\aulas\\aula62 - componentes\\f_combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C2BDFBB-9638-41EE-ABB7-106496C19DEE}|Aula62 - Componentes.csproj|solutionrelative:f_combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2BDFBB-9638-41EE-ABB7-106496C19DEE}|Aula62 - Componentes.csproj|c:\\users\\notebook\\onedrive\\documentos\\estudos\\c#\\cs\\aulas\\aula62 - componentes\\f_checkedlistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2BDFBB-9638-41EE-ABB7-106496C19DEE}|Aula62 - Componentes.csproj|solutionrelative:f_checkedlistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2BDFBB-9638-41EE-ABB7-106496C19DEE}|Aula62 - Componentes.csproj|C:\\Users\\Notebook\\OneDrive\\Documentos\\Estudos\\C#\\Cs\\Aulas\\Aula62 - Componentes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C2BDFBB-9638-41EE-ABB7-106496C19DEE}|Aula62 - Componentes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F_ComboBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Notebook\\OneDrive\\Documentos\\Estudos\\C#\\Cs\\Aulas\\Aula62 - Componentes\\F_ComboBox.cs",
+              "RelativeDocumentMoniker": "F_ComboBox.cs",
+              "ToolTip": "C:\\Users\\Notebook\\OneDrive\\Documentos\\Estudos\\C#\\Cs\\Aulas\\Aula62 - Componentes\\F_ComboBox.cs [Design]",
+              "RelativeToolTip": "F_ComboBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:23:58.599Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F_ComboBox.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\OneDrive\\Documentos\\Estudos\\C#\\Cs\\Aulas\\Aula62 - Componentes\\F_ComboBox.cs",
+              "RelativeDocumentMoniker": "F_ComboBox.cs",
+              "ToolTip": "C:\\Users\\Notebook\\OneDrive\\Documentos\\Estudos\\C#\\Cs\\Aulas\\Aula62 - Componentes\\F_ComboBox.cs",
+              "RelativeToolTip": "F_ComboBox.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:29:36.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "F_CheckedListBox.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\OneDrive\\Documentos\\Estudos\\C#\\Cs\\Aulas\\Aula62 - Componentes\\F_CheckedListBox.cs",
+              "RelativeDocumentMoniker": "F_CheckedListBox.cs",
+              "ToolTip": "C:\\Users\\Notebook\\OneDrive\\Documentos\\Estudos\\C#\\Cs\\Aulas\\Aula62 - Componentes\\F_CheckedListBox.cs",
+              "RelativeToolTip": "F_CheckedListBox.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:51:13.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Notebook\\OneDrive\\Documentos\\Estudos\\C#\\Cs\\Aulas\\Aula62 - Componentes\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Notebook\\OneDrive\\Documentos\\Estudos\\C#\\Cs\\Aulas\\Aula62 - Componentes\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:28:30.277Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

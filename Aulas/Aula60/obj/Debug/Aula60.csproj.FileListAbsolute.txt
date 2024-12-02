@@ -1,0 +1,10 @@
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\Aulas\Aula60\bin\Debug\Aula60.exe.config
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\Aulas\Aula60\bin\Debug\Aula60.exe
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\Aulas\Aula60\bin\Debug\Aula60.pdb
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\Aulas\Aula60\obj\Debug\Aula60.csproj.AssemblyReference.cache
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\Aulas\Aula60\obj\Debug\Aula60.Properties.Resources.resources
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\Aulas\Aula60\obj\Debug\Aula60.csproj.GenerateResource.cache
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\Aulas\Aula60\obj\Debug\Aula60.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\Aulas\Aula60\obj\Debug\Aula60.exe
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\Aulas\Aula60\obj\Debug\Aula60.pdb
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\Aulas\Aula60\obj\Debug\Aula60.F_Principal.resources

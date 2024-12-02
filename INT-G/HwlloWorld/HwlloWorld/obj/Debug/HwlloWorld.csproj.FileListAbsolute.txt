@@ -1,0 +1,10 @@
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\HwlloWorld\HwlloWorld\bin\Debug\HwlloWorld.exe.config
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\HwlloWorld\HwlloWorld\bin\Debug\HwlloWorld.exe
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\HwlloWorld\HwlloWorld\bin\Debug\HwlloWorld.pdb
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\HwlloWorld\HwlloWorld\obj\Debug\HwlloWorld.csproj.AssemblyReference.cache
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\HwlloWorld\HwlloWorld\obj\Debug\HwlloWorld.Form1.resources
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\HwlloWorld\HwlloWorld\obj\Debug\HwlloWorld.Properties.Resources.resources
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\HwlloWorld\HwlloWorld\obj\Debug\HwlloWorld.csproj.GenerateResource.cache
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\HwlloWorld\HwlloWorld\obj\Debug\HwlloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\HwlloWorld\HwlloWorld\obj\Debug\HwlloWorld.exe
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\HwlloWorld\HwlloWorld\obj\Debug\HwlloWorld.pdb

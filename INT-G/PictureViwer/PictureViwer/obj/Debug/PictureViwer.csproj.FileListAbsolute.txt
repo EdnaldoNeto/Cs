@@ -1,0 +1,10 @@
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\PictureViwer\PictureViwer\bin\Debug\PictureViwer.exe.config
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\PictureViwer\PictureViwer\bin\Debug\PictureViwer.exe
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\PictureViwer\PictureViwer\bin\Debug\PictureViwer.pdb
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\PictureViwer\PictureViwer\obj\Debug\PictureViwer.csproj.AssemblyReference.cache
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\PictureViwer\PictureViwer\obj\Debug\PictureViwer.Form1.resources
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\PictureViwer\PictureViwer\obj\Debug\PictureViwer.Properties.Resources.resources
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\PictureViwer\PictureViwer\obj\Debug\PictureViwer.csproj.GenerateResource.cache
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\PictureViwer\PictureViwer\obj\Debug\PictureViwer.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\PictureViwer\PictureViwer\obj\Debug\PictureViwer.exe
+C:\Users\Notebook\OneDrive\Documentos\Estudos\C#\Cs\INT-G\PictureViwer\PictureViwer\obj\Debug\PictureViwer.pdb
